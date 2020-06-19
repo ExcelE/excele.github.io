@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Excel Espina"
 categories: facts
-tags: [sample]
+tags: [author, about]
 image: cuba-4.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Excel. I’m a recent B.S. for Computer Science. Ever since my college career, I've been mostly interested in hobbyist electronics tinkering and programming. A lot of my recent projects have been involving Computer Vision, 3D Printing and Home Automation. 

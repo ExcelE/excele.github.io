@@ -3,7 +3,7 @@ layout: post
 title: "My First 3D Printer"
 author: "Excel Espina"
 categories: 3d-printing
-tags: [3d-printing,3d]
+tags: [3d-printing,3d,3d_printing]
 image: cr-10s.png
 ---
 
