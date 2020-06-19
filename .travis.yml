@@ -6,6 +6,7 @@ rvm: 2.6.5
 
 before_install:
   - bundle config path 'vendor/bundle'
+  - bundle update --bundler
 
 install:
   - bundle install --quiet
