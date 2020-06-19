@@ -5,7 +5,7 @@ language: ruby
 rvm: 2.6.5
 
 before_install:
-  # - bundle config path 'vendor/bundle'
+  - yes | gem update --system --force
   - gem install bundler
 
 install:
